@@ -36,7 +36,7 @@ Thay đổi thư mục (`cd`) thành thư mục khoa học, sau đó gõ:
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 
 

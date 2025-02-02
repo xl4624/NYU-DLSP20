@@ -57,7 +57,7 @@ Mude o diretório (`cd`) para a pasta do curso, e digite:
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 
 <!-- Start Jupyter Notebook or JupyterLab

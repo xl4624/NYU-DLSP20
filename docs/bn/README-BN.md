@@ -32,7 +32,7 @@ git clone https://github.com/Atcold/NYU-DLSP20
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 
 ## Jupyter Notebook অথবা JupyterLab কে চালু করুন

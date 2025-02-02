@@ -39,7 +39,7 @@ Cambia la cartella (`cd` -- "change directory") a quella del corso, poi scrivi:
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 
 

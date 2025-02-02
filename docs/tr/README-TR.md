@@ -57,7 +57,7 @@ Kurs dizinine gelin (`cd`) daha sonra aşağıdakini yazın:
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 
 <!-- Start Jupyter Notebook or JupyterLab

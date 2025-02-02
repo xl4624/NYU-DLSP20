@@ -39,7 +39,7 @@ Promeniti direktorijum (`cd`) na folder kursa, pa ukucati:
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 
 

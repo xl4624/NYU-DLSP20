@@ -58,7 +58,7 @@ git clone https://github.com/Atcold/NYU-DLSP20
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ``` -->
 
 Смените директорию (`cd`) на папку курса, затем выполните в терминале:
@@ -66,7 +66,7 @@ source activate NYU-DL
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 
 

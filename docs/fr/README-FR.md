@@ -74,7 +74,7 @@ Change directory (`cd`) into the course folder, then type:
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 -->
 
@@ -84,7 +84,7 @@ Changez le répertoire (`cd`) dans le dossier du cours, puis tapez :
 ```bash
 # cd NYU-DLSP20
 conda env create -f environment.yml
-source activate NYU-DL
+conda activate NYU-DL
 ```
 
 <!--
